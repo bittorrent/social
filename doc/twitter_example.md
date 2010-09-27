@@ -1,3 +1,20 @@
+---
+layout: default
+title: Building a Twitter App
+---
+
+This is a tutorial that will introduce the basic functionality of the 
+social library for Bittorrent Apps, specifically how to manage Twitter 
+authentication and interaction with Twitter's APIs.
+
+For a basic introduction to Bittorrent Apps development, see the 
+[introduction](http://btapps-sdk.bittorrent.com/). 
+A tutorial introducing the bascs of the Bittorrent API can be found at: 
+[Media Downloader](http://github.com/bittorrent/apps-sdk/blob/master/doc/tutorials/media_downloader.md).
+
+A complete version of the app from this tutorial can be found at:
+[Twitter Example](http://github.com/bittorrent/social/tree/master/examples/twitter/).
+
 Setup
 -----
 Create a new app and add the social package to the app as a dependency:
