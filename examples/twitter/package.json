@@ -1,0 +1,24 @@
+{
+    "description": "The default project.", 
+    "author": "Default Author <default@example.com>", 
+    "bt:publisher": "Example Publisher", 
+    "bt:libs": [
+        {
+            "url": "http://staging.apps.bittorrent.com/pkgs/apps-sdk.pkg", 
+            "name": "apps-sdk"
+        }, 
+        {
+            "url": "http://staging.apps.bittorrent.com/pkgs/social.pkg", 
+            "name": "social"
+        }
+    ], 
+    "site": "http://apps.bittorrent.com", 
+    "bt:update_url": "http://localhost/example", 
+    "version": "0.1", 
+    "bt:description": "This is the example app.", 
+    "keywords": [
+        "example"
+    ], 
+    "bt:release_date": "00/00/0000", 
+    "name": "twitter"
+}

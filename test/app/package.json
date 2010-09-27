@@ -1,0 +1,27 @@
+{
+    "description": "Unit tests for the social package.",
+    "bt:libs": [
+        {
+            "url": "http://staging.apps.bittorrent.com/pkgs/apps-sdk.pkg",
+            "name": "apps-sdk"
+        },
+        {
+            "url": "file://../../dist/social.pkg",
+            "name": "social"
+        }
+    ],
+    "bt:publisher": "BitTorrent Inc.",
+    "author": "Thomas Rampelberg <thomas@bittorrent.com>",
+    "site": "http://btapps-sdk.bittorrent.com",
+    "bt:update_url": "http://staging.apps.bittorrent.com/social/social-test.btapp",
+    "version": "0.1",
+    "bt:description": "Unit tests for the social package.",
+    "keywords": [
+        "twitter",
+        "facebook",
+        "library",
+        "sdk"
+    ],
+    "bt:release_date": "07/27/2010",
+    "name": "social-test"
+}
