@@ -23,12 +23,6 @@ Create a new app and add the social package to the app as a dependency:
     % cd twitter
     % apps add --file=http://staging.apps.bittorrent.com/pkgs/social.pkg
 
-Our app will enable the user to do the following:
-*  Login/logout
-*  Post status messages
-*  View their friends' timeline
-*  Search
-
 Add the following to `html/index.html` to set up all the page elements we'll need:
 
     <form id="login" class="out">
